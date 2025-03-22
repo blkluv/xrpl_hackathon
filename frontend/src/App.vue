@@ -1531,7 +1531,6 @@ function updateChart(selected: string) {
 window.addEventListener("resize", () => {
   chart.resize();
 });
-</script>
 
 <style>
 .main-container {
